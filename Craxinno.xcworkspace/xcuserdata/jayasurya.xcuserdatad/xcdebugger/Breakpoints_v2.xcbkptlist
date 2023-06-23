@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A8E7A853-8193-4EFD-BD2F-15EC507D64B4"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B8516AA-5876-4A39-8C1F-E01A8BBC7C6D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Craxinno/View/AgentListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "initializeUIAgentListView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0AF9EFB0-DBED-4975-BD4C-038BE289FDCF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Craxinno/ViewModel/AgendaViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "getDailyAgendas()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0AF9EFB0-DBED-4975-BD4C-038BE289FDCF - 817b42101077aa55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Craxinno.AgendaViewModel.getDailyAgendas() -&gt; ()"
+                  moduleName = "Craxinno"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayasurya/Desktop/Craxinno/Craxinno/Craxinno/ViewModel/AgendaViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "0AF9EFB0-DBED-4975-BD4C-038BE289FDCF - 817b42101077aa55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Craxinno.AgendaViewModel.getDailyAgendas() -&gt; ()"
+                  moduleName = "Craxinno"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayasurya/Desktop/Craxinno/Craxinno/Craxinno/ViewModel/AgendaViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "0AF9EFB0-DBED-4975-BD4C-038BE289FDCF - 817b42101077aa55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Craxinno.AgendaViewModel.getDailyAgendas() -&gt; ()"
+                  moduleName = "Craxinno"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayasurya/Desktop/Craxinno/Craxinno/Craxinno/ViewModel/AgendaViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "31065E87-58D5-48C5-9CEF-E30F7D44488D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Craxinno/View/AgendaListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD44CB56-7D08-4770-ADE8-46C2B1786030"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Craxinno/View/AgendaDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "253"
+            endingLineNumber = "253"
+            landmarkName = "setConstraintsAgendaDetailView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FD44CB56-7D08-4770-ADE8-46C2B1786030 - 1b24c43fed4c2f50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Craxinno.AgendaDetailView.setConstraintsAgendaDetailView() -&gt; ()"
+                  moduleName = "Craxinno"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayasurya/Desktop/Craxinno/Craxinno/Craxinno/View/AgendaDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "247"
+                  endingLineNumber = "247"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "FD44CB56-7D08-4770-ADE8-46C2B1786030 - 1da9780cae5caa5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SnapKit.ConstraintMaker) -&gt; () in Craxinno.AgendaDetailView.setConstraintsAgendaDetailView() -&gt; ()"
+                  moduleName = "Craxinno"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayasurya/Desktop/Craxinno/Craxinno/Craxinno/View/AgendaDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "248"
+                  endingLineNumber = "248"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "FD44CB56-7D08-4770-ADE8-46C2B1786030 - 1da9780cae5caa7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SnapKit.ConstraintMaker) -&gt; () in Craxinno.AgendaDetailView.setConstraintsAgendaDetailView() -&gt; ()"
+                  moduleName = "Craxinno"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayasurya/Desktop/Craxinno/Craxinno/Craxinno/View/AgendaDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "247"
+                  endingLineNumber = "247"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "FD44CB56-7D08-4770-ADE8-46C2B1786030 - 1da9780cae5ca523"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SnapKit.ConstraintMaker) -&gt; () in Craxinno.AgendaDetailView.setConstraintsAgendaDetailView() -&gt; ()"
+                  moduleName = "Craxinno"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayasurya/Desktop/Craxinno/Craxinno/Craxinno/View/AgendaDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "253"
+                  endingLineNumber = "253"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E357A231-47DC-4405-927A-EC5D41603EF4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Craxinno/ViewModel/AgendaViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "221"
+            endingLineNumber = "221"
+            landmarkName = "getAgendaDetails(id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E357A231-47DC-4405-927A-EC5D41603EF4 - 6947d66ec8681c45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Craxinno.AgendaViewModel.getAgendaDetails(id: Swift.Int) -&gt; ()"
+                  moduleName = "Craxinno"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayasurya/Desktop/Craxinno/Craxinno/Craxinno/ViewModel/AgendaViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "1244">
+               </Location>
+               <Location
+                  uuid = "E357A231-47DC-4405-927A-EC5D41603EF4 - 6947d66ec8681c45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Craxinno.AgendaViewModel.getAgendaDetails(id: Swift.Int) -&gt; ()"
+                  moduleName = "Craxinno"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayasurya/Desktop/Craxinno/Craxinno/Craxinno/ViewModel/AgendaViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "1180">
+               </Location>
+               <Location
+                  uuid = "E357A231-47DC-4405-927A-EC5D41603EF4 - 6947d66ec8681ada"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Craxinno.AgendaViewModel.getAgendaDetails(id: Swift.Int) -&gt; ()"
+                  moduleName = "Craxinno"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayasurya/Desktop/Craxinno/Craxinno/Craxinno/ViewModel/AgendaViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "1264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A43ED17E-39D5-49EE-B0F6-6876827A9297"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Craxinno/View/AgendaListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
